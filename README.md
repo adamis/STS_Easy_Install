@@ -9,3 +9,4 @@ Versões:
 
   4.10.0 : <a href="https://github.com/adamis/STS_Easy_Install/blob/main/4.10.0.RELEASE.bat" download="4.10.0.RELEASE.bat">download</a>  
   4.11.0 : <a href="https://github.com/adamis/STS_Easy_Install/blob/main/4.11.0.RELEASE.bat" download="4.11.0.RELEASE.bat">download</a>
+  4.12.0 : <a href="https://github.com/adamis/STS_Easy_Install/blob/main/4.12.0.RELEASE.bat" download="4.12.0.RELEASE.bat">download</a>
