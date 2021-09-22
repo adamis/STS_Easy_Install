@@ -26,4 +26,9 @@ echo Criando Link na area de trabalho da pasta ...
 cd %userprofile%\Desktop
 MKlink /j %pastaprojeto% %pastatemp%\%pastaprojeto%
 echo Concluido!
+
+echo Removendo Cache...
+DEL /F /A c:\temp\sts.jar
+echo Concluido!
+
 pause
