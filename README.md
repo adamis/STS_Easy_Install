@@ -3,7 +3,7 @@ STS bat install
 
 
 Bat Exclusivo para instalação facil do STS. Não se preoculpe mais em fazer o download e instalar o sts.
-um so click e vc faz o download e descompacta e cria em sua area de trabalho a atalho do sts.
+um so click e vc faz o download e descompacta e cria em sua area de trabalho e atalho do sts.
 
 Versões:
 
